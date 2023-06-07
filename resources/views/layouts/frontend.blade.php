@@ -34,9 +34,6 @@
   </header>
 @yield('content')
 <footer class="blog-footer">
-  <p></p>
-    <a href="#" class="btn btn-sm btn-primary">Back to top</a>
-  </p>
 </footer>
 
 
